@@ -1,4 +1,4 @@
-👋 Hi, I’m Diete-Spiff Timothy
+👋 Hi, I’m Diete-Spiff Timothy <br>
 👀 I’m interested in Full-Stack development and love to learn about tech
 🌱 I’m currently learning System Design, Software development Cloud computing as well
 📫 How to reach me: dietespifftimothyswift@gmail.com
