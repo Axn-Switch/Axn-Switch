@@ -1,8 +1,8 @@
 👋 Hi, I’m Diete-Spiff Timothy <br>
-👀 I’m interested in Full-Stack development and love to learn about tech
-🌱 I’m currently learning System Design, Software development Cloud computing as well
-📫 How to reach me: dietespifftimothyswift@gmail.com
-⚡ Fun fact: I also love to design and am quite proficient with several design software(figma, canva, photoshop, premiere)
+👀 I’m interested in Full-Stack development and love to learn about tech <br>
+🌱 I’m currently learning System Design, Software development Cloud computing as well<br>
+📫 How to reach me: dietespifftimothyswift@gmail.com<br>
+⚡ Fun fact: I also love to design and am quite proficient with several design software(figma, canva, photoshop, premiere)<br>
 
 <!--
 **Axn-Switch/Axn-Switch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
