@@ -4,6 +4,8 @@
 📫 How to reach me: dietespifftimothyswift@gmail.com<br>
 ⚡ Fun fact: I also love to design and am quite proficient with several design tools (figma, canva, photoshop, premiere)<br>
 
+![Timothy's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 <!--
 **Axn-Switch/Axn-Switch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
