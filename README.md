@@ -8,6 +8,7 @@
 <h2>Here's what i work with</h2>
 
 <h3>Languages</h3>
+
 | ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/f6ec4623-00f8-4259-b97b-e2742772a154) | ![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f70c3b5-db66-4775-a52f-76768441bbcf) |             
 | ![icons8-javascript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/7e7fc9ff-4531-47d1-9d37-846570d56902) |![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/4535c9f3-6fe4-4c55-8019-a5079cc84e8d) |
 | ![icons8-css3-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/d2b49dcd-80da-4aaa-b607-a139da7196f8) | ![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6e32ad78-be55-4ccd-ba22-7b548b38f4ba) |
