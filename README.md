@@ -10,7 +10,7 @@
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/f6ec4623-00f8-4259-b97b-e2742772a154) | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
