@@ -13,7 +13,7 @@
 
 | ![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec) | ![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39) | ![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06) | 
 | ------------- |:-------------:| -----:|
-| ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/3b6e2bbd-749e-4b8a-b94b-ea941c949f0f) | ![icons8-javascript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/761f34fd-2459-4b6f-893a-fe13c34a39e7)| [icons8-css3-100]:(https://github.com/Axn-Switch/Axn-Switch/assets/84931250/522f1be0-3b86-45d9-9179-c5eebda4f187)|
+| ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/3b6e2bbd-749e-4b8a-b94b-ea941c949f0f) | ![icons8-javascript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/761f34fd-2459-4b6f-893a-fe13c34a39e7)| [icons8-css3-100]:(https://github.com/Axn-Switch/Axn-Switch/assets/84931250/522f1be0-3b86-45d9-9179-c5eebda4f187) |
   
 </div>
 
