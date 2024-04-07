@@ -9,7 +9,7 @@
 
 <div  float="left">
   
-<h3>Languages</h3> 
+<h3 width='200px'>Languages</h3> 
 
 | ![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec) | ![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39) | ![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06) |
 | ------------- |:-------------:| -----:|
