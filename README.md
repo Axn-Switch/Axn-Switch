@@ -40,7 +40,7 @@
 
 <summary>I also love to design, these are some of the tools i use</summary>
 
-  <div style="display:flex">
+  <div style='display:flex'>
     <li>ah</li>    
     <li>ah</li>    
     <li>ah</li>    
