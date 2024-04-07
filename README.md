@@ -7,6 +7,14 @@
 
 <h2>Here's what i work with</h2>
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 <h3>Languages</h3>
 
 |--------------------|-----------------------------|
