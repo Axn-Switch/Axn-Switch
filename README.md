@@ -7,8 +7,6 @@
 
 <h2>Here's what i work with</h2>
 
-
-| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/f6ec4623-00f8-4259-b97b-e2742772a154) | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
