@@ -7,6 +7,7 @@
 
 <h2>Here's what i work with</h2>
 
+<div style="display:flex">
 <div style="width: fit-content;">
   
 <h3 style="width: fit-content;">Languages</h3> 
@@ -28,6 +29,9 @@
 
 
 </div>
+  
+</div>
+
 
 
 
