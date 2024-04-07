@@ -24,7 +24,7 @@
 
 | ![icons8-github-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6978808e-a9be-4841-ad41-1847b66838fd) | ![icons8-android-studio-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb) | ![icons8-tailwind-css-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ddbb4090-371c-436a-9bd0-784d57a49a6e) |
 | ------------- |:-------------:| -----:|
-| ![icons8-node-js-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/09381733-04e9-4b17-a86b-d191360f2661) | ![icons8-mongodb-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/2385e102-ec06-4bbe-ba15-89a93e96dd76) | $1600 |
+| ![icons8-node-js-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/09381733-04e9-4b17-a86b-d191360f2661) | ![icons8-mongodb-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/2385e102-ec06-4bbe-ba15-89a93e96dd76) | |
 
 
 
