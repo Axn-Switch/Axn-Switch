@@ -7,8 +7,7 @@
 
 <h2>Here's what i work with</h2>
 
-<div display=flex>
-<div  width='200px'>
+<div  float="left">
   
 <h3>Languages</h3> 
 
@@ -19,7 +18,7 @@
 </div>
 
 
-<div width='200px'>
+<div float="right">
   <h3>Tools</h3>
 
 | ![icons8-github-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6978808e-a9be-4841-ad41-1847b66838fd) | ![icons8-android-studio-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb) | ![icons8-tailwind-css-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ddbb4090-371c-436a-9bd0-784d57a49a6e) |
@@ -30,7 +29,6 @@
 
 </div>
   
-</div>
 
 
 
