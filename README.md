@@ -10,7 +10,7 @@
 <div style="display:flex">
 <div style="width: fit-content;">
   
-<h3 style="width: fit-content;">Languages</h3> 
+<h3 style="width: 200px;">Languages</h3> 
 
 | ![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec) | ![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39) | ![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06) |
 | ------------- |:-------------:| -----:|
@@ -19,7 +19,7 @@
 </div>
 
 
-<div style="width: fit-content;">
+<div style="width: 200px;">
   <h3>Tools</h3>
 
 | ![icons8-github-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6978808e-a9be-4841-ad41-1847b66838fd) | ![icons8-android-studio-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb) | ![icons8-tailwind-css-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ddbb4090-371c-436a-9bd0-784d57a49a6e) |
