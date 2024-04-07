@@ -7,25 +7,28 @@
 
 <h2>Here's what i work with</h2>
 
+
+| ![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec) | ![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39) | ![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06)  |
 | ------------- |:-------------:| -----:|
-| ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/f6ec4623-00f8-4259-b97b-e2742772a154) | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/3b6e2bbd-749e-4b8a-b94b-ea941c949f0f) | ![icons8-javascript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/761f34fd-2459-4b6f-893a-fe13c34a39e7)| ![icons8-css3-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/522f1be0-3b86-45d9-9179-c5eebda4f187)|
+
+
 
 
 <h3>Languages</h3>
 
-|--------------------|-----------------------------|
-|![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/f6ec4623-00f8-4259-b97b-e2742772a154)|![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f70c3b5-db66-4775-a52f-76768441bbcf)|             
-|![icons8-javascript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/7e7fc9ff-4531-47d1-9d37-846570d56902)|![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/4535c9f3-6fe4-4c55-8019-a5079cc84e8d)|
-|![icons8-css3-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/d2b49dcd-80da-4aaa-b607-a139da7196f8)|![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6e32ad78-be55-4ccd-ba22-7b548b38f4ba)|
 
-![icons8-android-studio-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/34ae434f-7b22-42f8-80db-0e503e9df9e4)
-![icons8-tailwind-css-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/673dac72-1895-427f-b262-7b93ce0ee241)
 
-![icons8-node-js-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ff0b9512-20a5-4ac8-9fc9-fc73a2dfe43a)
-![icons8-mongodb-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/05a75b54-3a9b-4bb9-90dd-e884adad754d)
-![icons8-github-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/9a86b59a-0666-4ca5-bd4d-41ae85f41c90)
+![icons8-github-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6978808e-a9be-4841-ad41-1847b66838fd)
+
+
+![icons8-android-studio-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb)
+
+![icons8-tailwind-css-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ddbb4090-371c-436a-9bd0-784d57a49a6e)
+
+![icons8-node-js-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/09381733-04e9-4b17-a86b-d191360f2661)
+
+![icons8-mongodb-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/2385e102-ec06-4bbe-ba15-89a93e96dd76)
 
 
 
