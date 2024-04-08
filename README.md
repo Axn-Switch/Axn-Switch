@@ -19,12 +19,16 @@
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6978808e-a9be-4841-ad41-1847b66838fd' width='40px'/> </td>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06' width='40px'/> </td>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb' width='40px'/> </td>
-  </tr>
+  </tr> 
   <tr>
+    <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39' width='40px'/> </th>
+    <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec' width='40px'/> </th>
+    <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06' width='40px'/> </th>
+    <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/09381733-04e9-4b17-a86b-d191360f2661' width='40px'/> </td>
+    <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/2385e102-ec06-4bbe-ba15-89a93e96dd76' width='40px'/> </td>
+    <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb' width='40px'/> </td>
   </tr>
-  <tr>
-    
-  </tr>
+  
 </table>
 
 
