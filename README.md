@@ -35,7 +35,7 @@
   <tr>
     <th> ![icons8-typescript-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec) </th>
     <th> ![icons8-sql-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39) </th>
- ![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06) 
+    <td> ![icons8-c-sharp-logo-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06)  </td>
   </tr>
   <tr>
     <td> ![icons8-java-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/3b6e2bbd-749e-4b8a-b94b-ea941c949f0f) </td>
