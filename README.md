@@ -20,6 +20,10 @@
 
 
 <table>
+ <tr>
+  <th colspan='3'>Languages</th>
+  <th colspan='3'>Tools</th>
+ </tr>
   <tr>
     <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39' width='40px'/> </th>
     <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec' width='40px'/> </th>
