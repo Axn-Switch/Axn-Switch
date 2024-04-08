@@ -26,7 +26,7 @@
     <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/761f34fd-2459-4b6f-893a-fe13c34a39e7' width='50px'/> </th>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/09381733-04e9-4b17-a86b-d191360f2661' width='50px'/> </td>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/2385e102-ec06-4bbe-ba15-89a93e96dd76' width='50px'/> </td>
-    <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb' width='50px'/> </td>
+    <td></td>
   </tr>
   
 </table>
