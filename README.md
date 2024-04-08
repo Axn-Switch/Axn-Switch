@@ -24,25 +24,14 @@
     <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb642852-8e7f-426a-8b33-ed981d920a39' width='40px'/> </th>
     <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/1f0a0413-65ef-47b2-8faa-e44b965f74ec' width='40px'/> </th>
     <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06' width='40px'/> </th>
-  </tr>
-  <tr>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/6978808e-a9be-4841-ad41-1847b66838fd' width='40px'/> </td>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/819d2d73-8c90-4162-99f7-5dd98cea2d06' width='40px'/> </td>
     <td> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/fb0465c7-395f-427a-8ab5-f5daf06a91bb' width='40px'/> </td>
   </tr>
   <tr>
-    <td colspan="2"> <!-- Use colspan="2" to span across both columns -->
-      <table>
-        <tr>
-          <th>Inner Table Header 1</th>
-          <th>Inner Table Header 2</th>
-        </tr>
-        <tr>
-          <td>Inner Table Data 1</td>
-          <td>Inner Table Data 2</td>
-        </tr>
-      </table>
-    </td>
+  </tr>
+  <tr>
+    
   </tr>
 </table>
 
