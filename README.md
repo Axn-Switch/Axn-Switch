@@ -7,18 +7,6 @@
 
 <h2>Here's what i work with</h2>
 
-<h3 width='200px'>Languages</h3> 
-
-
-[output-onlinepngtools]:(https://github.com/Axn-Switch/Axn-Switch/assets/84931250/af122c82-a48f-4375-8ae1-b24712286be8)
-
-
- | | ![icons8-github-100]( | ) | ![icons8-tailwind-css-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ddbb4090-371c-436a-9bd0-784d57a49a6e) |
-| ------------- |:-------------:| -----:|
-| ![icons8-node-js-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/09381733-04e9-4b17-a86b-d191360f2661) | ![icons8-mongodb-100](https://github.com/Axn-Switch/Axn-Switch/assets/84931250/2385e102-ec06-4bbe-ba15-89a93e96dd76) | |  |
-  
-
-
 <table>
  <tr>
   <th colspan='3'>Languages</th>
