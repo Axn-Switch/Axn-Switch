@@ -7,7 +7,7 @@
 
 <h2>Here's what i work with</h2>
 
-<table align="center">
+<table align="center" width="100%">
  <tr>
   <th colspan='3'>Languages</th>
   <th colspan='3'>Tools</th>
