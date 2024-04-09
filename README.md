@@ -53,10 +53,12 @@
 <details>
 
 <summary>I also love to design, these are some of the tools i use</summary>
+ <div align="center">
   <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/30617a9a-9695-474c-8861-89048682e2a2' width='40px'/>
   <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/e2c72b14-c194-417d-bd32-867f2e304fbf' width='40px'/>
   <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/e05f82c4-908a-4ce4-bf65-e488713d4214' width='40px'/>
   <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/be8607c2-b342-4f08-98ec-3bf2e4f99890' width='40px'/>
+ </div>
 
 
 
