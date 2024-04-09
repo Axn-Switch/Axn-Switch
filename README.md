@@ -58,9 +58,11 @@
   &nbsp;
   &nbsp;
   <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/e2c72b14-c194-417d-bd32-867f2e304fbf' width='40px'/>
-  &nbsp;&nbsp;
+  &nbsp; 
+  &nbsp;
   <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/e05f82c4-908a-4ce4-bf65-e488713d4214' width='40px'/>
-  &nbsp;&nbsp;<img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/be8607c2-b342-4f08-98ec-3bf2e4f99890' width='40px'/>
+  &nbsp;
+  &nbsp;<img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/be8607c2-b342-4f08-98ec-3bf2e4f99890' width='40px'/>
  </div>
 
 
