@@ -1,4 +1,9 @@
-<h1>👋 Hi, I’m Diete-Spiff Timothy</h1> <br>
+<h1>👋 Hi, I’m Diete-Spiff Timothy</h1> 
+
+![](https://komarev.com/ghpvc/?username=Axn-Switch&style=flat-square)<br>
+
+
+<br>
 👀 I’m interested in Full-Stack development and love to learn about tech <br>
 🌱 I’m currently learning System Design, Software development and Cloud computing<br>
 📫 How to reach me: dietespifftimothyswift@gmail.com<br>
