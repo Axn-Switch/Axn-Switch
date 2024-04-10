@@ -8,6 +8,16 @@
 🌱 I’m currently learning System Design, Software development and Cloud computing<br>
 📫 How to reach me: dietespifftimothyswift@gmail.com<br>
 
+<h2>These are my projects</h2>
+
+<table align="center">
+  <tr>
+    <th> <img src=https://github.com/Axn-Switch/Axn-Switch/assets/84931250/bcb47773-609a-4bc5-9758-e645807ecaf8 width='50px'/> </th>
+    <th> <a href="https://snipzsupportdesk.netlify.app">SupportDesk application</a> </th>
+  </tr> 
+  
+</table>
+
 <h2>Here's what i work with</h2>
 
 <table align="center" style="width: 80%;">
