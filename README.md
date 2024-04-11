@@ -4,8 +4,10 @@
 
 
 <br>
-I like to build stuff with tech.
-How to reach me: dietespifftimothyswift@gmail.com<br>
+I like to build stuff with tech.<br>
+How to reach me: 
+
+[Diete-Spiff Timothy](mailto:dietespifftimothyswift@gmail.com)<br>
 
 <h2>My Projects</h2>
 
