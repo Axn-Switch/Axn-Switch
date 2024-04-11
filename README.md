@@ -4,11 +4,10 @@
 
 
 <br>
-👀 I’m interested in Full-Stack development and love to learn about tech <br>
-🌱 I’m currently learning System Design, Software development and Cloud computing<br>
-📫 How to reach me: dietespifftimothyswift@gmail.com<br>
+I like to build stuff with tech.
+How to reach me: dietespifftimothyswift@gmail.com<br>
 
-<h2>These are my projects</h2>
+<h2>My Projects</h2>
 
 <table align="center">
   <tr>
