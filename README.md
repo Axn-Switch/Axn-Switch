@@ -2,12 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Axn-Switch&style=flat-square)<br>
 
-
-<br>
 I like to build stuff with tech.<br>
-How to reach me: 
-
-[Diete-Spiff Timothy](mailto:dietespifftimothyswift@gmail.com)<br>
+How to reach me: [Diete-Spiff Timothy](mailto:dietespifftimothyswift@gmail.com)<br>
 
 <h2>My Projects</h2>
 
