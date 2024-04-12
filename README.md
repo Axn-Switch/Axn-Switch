@@ -58,8 +58,7 @@ How to reach me: [Diete-Spiff Timothy](mailto:dietespifftimothyswift@gmail.com)<
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Axn-Switch&theme=dark&hide_border=true)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Axn-Switch&theme=dark&hide_border=true)](https://git.io/streak-stats)  ![whatevs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axn-Switch&layout=compact&hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true)
 </div>
 
 
