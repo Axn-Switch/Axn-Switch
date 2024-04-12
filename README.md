@@ -3,7 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=Axn-Switch&style=flat-square)<br>
 
 I like to build stuff with tech.<br>
-How to reach me: [Diete-Spiff Timothy](mailto:dietespifftimothyswift@gmail.com)<br>
+How to reach me: <br>
+<a href="mailto:dietespifftimothyswift@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Twitter Badge"/>
+  </a>
 
 <h2>My Projects</h2>
 
