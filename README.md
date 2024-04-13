@@ -12,7 +12,7 @@ How to reach me: <br>
 <table align="center">
   <tr>
     <th> <img src=https://github.com/Axn-Switch/Axn-Switch/assets/84931250/bcb47773-609a-4bc5-9758-e645807ecaf8 width='50px'/> </th>
-    <th> <a href="https://snipzsupportdesk.netlify.app">SupportDesk application</a> </th>
+    <th> <a href="https://snipzsupportdesk.netlify.app">SupportDesk Application</a> </th>
   </tr> 
   
 </table>
