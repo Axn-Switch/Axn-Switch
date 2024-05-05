@@ -13,6 +13,8 @@ How to reach me: <br>
   <tr>
     <th> <img src=https://github.com/Axn-Switch/Axn-Switch/assets/84931250/bcb47773-609a-4bc5-9758-e645807ecaf8 width='50px'/> </th>
     <th> <a href="https://snipzsupportdesk.netlify.app">SupportDesk Application</a> </th>
+    <th> <img src=https://github.com/Axn-Switch/Axn-Switch/assets/84931250/ceb4dcfd-c5b0-41a8-b4e3-df6f81455cde width='50px'/> </th>
+    <th> <a href="https://daxkeygen.netlify.app/">Password Generator</a> </th>
   </tr> 
   
 </table>
