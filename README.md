@@ -77,6 +77,12 @@ How to reach me: <br>
       <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/e2c72b14-c194-417d-bd32-867f2e304fbf' width='50px'/> </th>
      <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/e05f82c4-908a-4ce4-bf65-e488713d4214' width='50px'/></th>
      <th> <img src='https://github.com/Axn-Switch/Axn-Switch/assets/84931250/be8607c2-b342-4f08-98ec-3bf2e4f99890' width='50px'/></th>
+    </tr>  
+    <tr>
+      <th>Figma</th>
+      <th> Premiere Pro</th>
+     <th> Photoshop</th>
+     <th> After Effects</th>
     </tr> 
   </table>
 
